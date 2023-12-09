@@ -1,8 +1,8 @@
-# KHAAdotPK
+### KHAAdotPK(`khaa.pk`)
+Welcome to the KHAAdotPK(`khaa.pk`)! This collection of repositories has been curated with the intention of providing a foundation for the implementation of various Machine Learning (ML) models in `C/C++` and `Rust`. To get started, clone the needed repository into the `./lib` local directory. Each repository is crafted with the hope that it will contribute to and facilitate your journey in building robust and innovative machine learning solutions.
 
-Welcome to the KHAAdotPK repository! This collection of repositories has been curated with the intention of providing a foundation for the implementation of various Machine Learning (ML) models in C/C++ and Rust. To get started, clone the needed repository into the `./lib` local directory. Each repository is crafted with the hope that it will contribute to and facilitate your journey in building robust and innovative machine learning solutions.
+Feel free to `explore`, `experiment`, and `adapt` the cloned repositories to meet your specific requirements. If you have any questions or suggestions, please don't hesitate to reach out. Happy coding!
 
-Feel free to explore, experiment, and adapt the cloned repositories to meet your specific requirements. If you have any questions or suggestions, please don't hesitate to reach out. Happy coding!
 
 <!--
 - 👋 Hi, I’m @KHAAdotPK
