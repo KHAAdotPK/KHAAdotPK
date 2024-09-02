@@ -21,7 +21,11 @@ Our long-term vision is to provide tools and resources that enable businesses to
 
 #### Current Status and Future Plans
 
-Unfortunately, development work has been temporarily paused due to the passing of my father on June 5th of this year. During this period, progress has understandably slowed as I take time to process this loss. However, I plan to resume development in the coming months, with renewed focus and dedication to continuing this project.
+> **_Unfortunately, development work has been temporarily paused due to the passing of my father on June 5th of this year. During this period, progress has understandably slowed as I take time to process this loss. However, I plan to resume development in the coming months, with renewed focus and dedication to continuing this project._**
+
+<!-- #### Current Status and Future Plans
+
+Unfortunately, development work has been temporarily paused due to the passing of my father on June 5th of this year. During this period, progress has understandably slowed as I take time to process this loss. However, I plan to resume development in the coming months, with renewed focus and dedication to continuing this project. -->
 
 #### Contribute, Explore, and Innovate
 
