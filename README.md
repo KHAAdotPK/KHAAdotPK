@@ -11,10 +11,10 @@ To get started, simply clone the desired repository into the `./lib` local direc
 We have detailed guides that walk you through the implementation of key ML models, such as `Skip-gram` and `CBOW`. These guides are included as PDF documents within their respective repositories:
 
 - [Skip-gram Implementation Guide (PDF)](./SkipGramImplementation.pdf): A comprehensive guide on implementing the Skip-gram model, a foundational algorithm in natural language processing, using `C/C++`.  
-  - **Updated Skip-gram Implementation**: The model has been updated in a new repository and is constantly being improved. You can find the updated implementation here: [Skip-gram GitHub Repository](https://github.com/KHAAdotPK/skip-gram.git). Work is being done to create a new, more detailed PDF guide.
+  - **Updated Skip-gram Implementation**: The model has been updated in a new repository and is constantly being improved. You can find the updated implementation here: [Skip-gram GitHub Repository](https://github.com/KHAAdotPK/skip-gram.git). ~~Work is being done to create a new, more detailed PDF guide~~.
 
 - [CBOW Implementation Guide (PDF)](./StepByStepCBOW.pdf): A step-by-step guide for implementing the Continuous Bag of Words (CBOW) model in `C/C++`, offering insights into word embedding techniques and their applications.  
-  - **Updated CBOW Implementation**: The model has been updated and is continuously being enhanced. Check out the latest version of the CBOW implementation here: [CBOW GitHub Repository](https://github.com/KHAAdotPK/CBOW.git). A new PDF guide is under development.
+  - **Updated CBOW Implementation**: The model has been updated and is continuously being enhanced. Check out the latest version of the CBOW implementation here: [CBOW GitHub Repository](https://github.com/KHAAdotPK/CBOW.git). ~~A new PDF guide is under development~~.
 
 #### Where We Are Heading
 
