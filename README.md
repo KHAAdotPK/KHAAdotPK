@@ -12,6 +12,12 @@ We have detailed guides that walk you through the implementation of key ML model
 
 - [Skip-gram Implementation Guide (PDF)](./SkipGramImplementation.pdf): A comprehensive guide on implementing the Skip-gram model, a foundational algorithm in natural language processing, using `C/C++`.  
   - **Updated Skip-gram Implementation**: The model has been updated in a new repository and is constantly being improved. You can find the updated implementation here: [Skip-gram GitHub Repository](https://github.com/KHAAdotPK/skip-gram.git). ~~Work is being done to create a new, more detailed PDF guide~~.
+  
+**Additional Documentation**:
+In the `DOCUMENTS` directory, we provide further insights into the key components of the Skip-gram implementation:
+- [README.md](./DOCUMENTS/README.md): This document outlines how the Skip-gram model was implemented in C++, providing a general overview of the model's implementation structure.
+- [PROPOGATION.md](./DOCUMENTS/PROPOGATION.md): Explains how the Skip-gram implementation in C++ propagates toward predicting context words, detailing the algorithm's mechanics.
+- [GradientDescent.md](./DOCUMENTS/GradientDescent.md): As the name suggests, this document discusses gradient descent and how it was implemented in this implementation of Skip-gram model in C++.
 
 - [CBOW Implementation Guide (PDF)](./StepByStepCBOW.pdf): A step-by-step guide for implementing the Continuous Bag of Words (CBOW) model in `C/C++`, offering insights into word embedding techniques and their applications.  
   - **Updated CBOW Implementation**: The model has been updated and is continuously being enhanced. Check out the latest version of the CBOW implementation here: [CBOW GitHub Repository](https://github.com/KHAAdotPK/CBOW.git). ~~A new PDF guide is under development~~.
