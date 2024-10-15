@@ -10,7 +10,7 @@ To get started, simply clone the desired repository into the `./lib` local direc
 
 We have detailed guides that walk you through the implementation of key ML models, such as `Skip-gram` and `CBOW`. These guides are included as PDF documents within their respective repositories:
 
-1. [Skip-gram Implementation Guide (PDF)](./SkipGramImplementation.pdf): A comprehensive guide on implementing the Skip-gram model, a foundational algorithm in natural language processing, using `C/C++`.  
+1. ~~[Skip-gram Implementation Guide (PDF)](./SkipGramImplementation.pdf): A comprehensive guide on implementing the Skip-gram model, a foundational algorithm in natural language processing, using `C/C++`~~.  
   - **Updated Skip-gram Implementation**: The model has been updated in a new repository and is constantly being improved. You can find the updated implementation here: [Skip-gram GitHub Repository](https://github.com/KHAAdotPK/skip-gram.git). ~~Work is being done to create a new, more detailed PDF guide~~.
   
 **Additional Documentation**:
@@ -19,7 +19,7 @@ In the `DOCUMENTS` directory, we provide further insights into the key component
   - [PROPOGATION.md](https://github.com/KHAAdotPK/skip-gram/blob/main/DOCUMENTS/PROPOGATION.md): Explains how the Skip-gram implementation in C++ propagates toward predicting context words, detailing the algorithm's mechanics.
   - [GradientDescent.md](https://github.com/KHAAdotPK/skip-gram/blob/main/DOCUMENTS/GradientDescent.md): As the name suggests, this document discusses gradient descent and how it was implemented in this implementation of Skip-gram model in C++.
 
-2. [CBOW Implementation Guide (PDF)](./StepByStepCBOW.pdf): A step-by-step guide for implementing the Continuous Bag of Words (CBOW) model in `C/C++`, offering insights into word embedding techniques and their applications.  
+2. ~~[CBOW Implementation Guide (PDF)](./StepByStepCBOW.pdf): A step-by-step guide for implementing the Continuous Bag of Words (CBOW) model in `C/C++`, offering insights into word embedding techniques and their applications~~.  
   - **Updated CBOW Implementation**: The model has been updated and is continuously being enhanced. Check out the latest version of the CBOW implementation here: [CBOW GitHub Repository](https://github.com/KHAAdotPK/CBOW.git). ~~A new PDF guide is under development~~.
 
 #### Where We Are Heading
