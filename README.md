@@ -23,7 +23,6 @@ In the `DOCUMENTS` directory, we provide further insights into the key component
   - **Updated CBOW Implementation**: The model has been updated and is continuously being enhanced. Check out the latest version of the CBOW implementation here: [CBOW GitHub Repository](https://github.com/KHAAdotPK/CBOW.git). ~~A new PDF guide is under development~~.
 <details>
 <summary>Where we are heading...</summary>  
-<br/>
 At <b>KHAAdotPK</b>, the journey doesn't stop with Skip-gram and CBOW. We are currently expanding our focus to more advanced models, including the implementation of Transformer architectures, such as the Encoder-Decoder models, entirely from scratch. This ambitious effort aims to build a comprehensive library of fundamental ML models that are not only educational but also optimized for performance and scalability.
 
 Our long-term vision is to provide tools and resources that enable businesses to harness the power of custom ML models, trained on in-house data, to drive insights and innovation. By continuing to develop these foundational models in `C/C++` and `Rust`, we aim to bridge the gap between high-level ML frameworks and the performance needs of commercial applications.
