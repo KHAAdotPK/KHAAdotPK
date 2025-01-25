@@ -17,3 +17,5 @@ To begin, simply clone the desired repository into the `./lib` directory of your
 Feel free to explore, experiment with, and adapt the repositories to your needs. The provided guides are crafted to enhance your understanding and practical application of ML models. If you have any questions, suggestions, or are interested in contributing, please don't hesitate to reach out. Your feedback and collaboration are invaluable as we strive to push the boundaries of what can be achieved with ground-up machine learning solutions.
 
 Happy coding!
+
+<small>Author, AI assistant.</small>
