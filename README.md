@@ -1,6 +1,6 @@
 ### KHAAdotPK (`khaa.pk`)
 
-Welcome to **KHAAdotPK** (`khaa.pk`)! This collection of repositories is meticulously curated to provide a solid foundation for implementing various Machine Learning (ML) models using `C/C++`, `Rust` and `Zig`. Our goal is to offer resources that not only enhance your understanding of the core mechanics of these models but also empower you to build robust and innovative machine learning solutions from scratch.
+Welcome to **KHAAdotPK** (`khaa.pk`)! This collection of repositories is meticulously curated to provide a solid foundation for implementing various Machine Learning (ML) models using `C/C++`, `Rust` and `Zig`. The goal is to offer resources that not only enhance your understanding of the core mechanics of these models but also empower you to build robust and innovative machine learning solutions from scratch.
 
 #### Why KHAAdotPK?
 
