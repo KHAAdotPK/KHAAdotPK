@@ -10,12 +10,12 @@ Through this work, I envision a future where individuals, equipped with their ow
 
 #### Getting Started
 
-To begin, simply clone the desired repository into the `./lib` directory of your project. Each repository is designed to serve as a standalone guide and resource, offering insights and code examples that reflect real-world applications of machine learning principles.
+To begin, simply clone the desired repository into the `./lib` directory of your project. Each repository is designed to serve as a standalone guide and resource, offering insights and code examples that reflect real world applications of machine learning principles.
 
 #### Contribute, Explore, and Innovate
 
-Feel free to explore, experiment with, and adapt the repositories to your needs. The provided guides are crafted to enhance your understanding and practical application of ML models. If you have any questions, suggestions, or are interested in contributing, please don't hesitate to reach out. Your feedback and collaboration are invaluable as we strive to push the boundaries of what can be achieved with ground-up machine learning solutions.
+Feel free to explore, experiment with, and adapt the repositories to your needs. The provided guides/articles in the repository [Machine Learning](https://github.com/KHAAdotPK/MachineLearning) are crafted to enhance your understanding and practical application of ML models. If you have any questions, suggestions, or are interested in contributing, please don't hesitate to reach out. Your feedback and collaboration are invaluable as we strive to push the boundaries of what can be achieved with ground-up machine learning solutions.
 
 Happy coding!
 
-<small>Author, AI assistant.</small>
+<small>Author, [Sohail](https://github.com/sohail) and his AI assistant.</small>
