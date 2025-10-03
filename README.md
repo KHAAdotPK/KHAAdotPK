@@ -4,7 +4,7 @@ Welcome to **KHAAdotPK** (`khaa.pk`)! This collection of repositories is meticul
 
 #### Why KHAAdotPK?
 
-This initiative stems from the realization that we are at a pivotal moment in the evolution of AI—comparable to the early stages of other transformative global phenomena. AI today is more than a technological breakthrough; it represents a societal revolution. By demystifying ML and AI implementations, the repositories at KHAAdotPK aim to dismantle the "black box" perception of these technologies, making their mechanics accessible to everyone.
+This initiative stems from the realization that we are at a pivotal moment in the evolution of AI comparable to the early stages of other transformative global phenomena. AI today is more than a technological breakthrough; it represents a societal revolution. By demystifying ML and AI implementations, the repositories at KHAAdotPK aim to dismantle the "black box" perception of these technologies, making their mechanics accessible to everyone.
 
 Through this work, I envision a future where individuals, equipped with their own AI agents, can ethically, responsibly, and transparently harness the full potential of this technology.
 
@@ -14,8 +14,8 @@ To begin, simply clone the desired repository into the `./lib` directory of your
 
 #### Contribute, Explore, and Innovate
 
-Feel free to explore, experiment with, and adapt the repositories to your needs. The provided guides/articles in the repository [Machine Learning](https://github.com/KHAAdotPK/MachineLearning) are crafted to enhance your understanding and practical application of ML models. If you have any questions, suggestions, or are interested in contributing, please don't hesitate to reach out. Your feedback and collaboration are invaluable as we strive to push the boundaries of what can be achieved with ground-up machine learning solutions.
+Feel free to explore, experiment with, and adapt the repositories to your needs. The provided guides/articles in the repository [Machine Learning](https://github.com/KHAAdotPK/MachineLearning) are crafted to enhance your understanding and practical application of ML models. If you have any questions, suggestions, or are interested in contributing, please don't hesitate to reach out. Your feedback and collaboration are invaluable as we strive to push the boundaries of what can be achieved with ground up machine learning solutions.
 
 Happy coding!
 
-<small>Author, [Sohail](https://github.com/sohail) and his AI assistant.</small>
+<small>Author, [Sohail](https://github.com/sohail).</small>
