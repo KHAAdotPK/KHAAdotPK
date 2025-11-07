@@ -19,3 +19,24 @@ Feel free to explore, experiment with, and adapt the repositories to your needs.
 Happy coding!
 
 <small>Author, [Sohail](https://github.com/sohail).</small>
+
+## Request for Compute Resources
+
+The JEPA (Rust), NLP Transformer (C/C++), and Skip-Gram/CBOW projects are **100% from-scratch** implementations—no external frameworks, just custom PNG decoders, tensor ops, and even CLI arg parsers in Rust/C++/Zig (all in this repo!).
+
+Training modest-scale models (e.g., ViT-S/16 on ImageNet-1K image subsets or a 12-layer transformer on 1M sentences) quickly outgrows a single consumer CPU.
+
+### What I Need
+| Item | Minimum Spec | Preferred |
+|------|--------------|-----------|
+| **GPU** | 1 × RTX 3060 / A4000 (≥8 GB VRAM) | 2 × RTX 4090 / A6000 |
+| **Desktop** | 16 GB RAM, 6-core CPU | 64 GB RAM, 12-core CPU + NVMe SSD |
+| **Laptop** | 16 GB RAM, integrated GPU | 32 GB RAM, RTX 4070 |
+
+### What It Will Enable
+* Full pre-training of **I-JEPA** on ImageNet-1K subsets (public dataset of 1M+ images—no libs needed).
+* End-to-end training of the **C++ Transformer** for language modeling on custom corpora.
+* Rapid iteration on **Skip-Gram/CBOW** with billion-token datasets.
+* Open benchmarks, pretrained weights, and reproducible results for the community.
+
+If you/your org can donate, loan, or sponsor, open an **Issue** titled **"Compute Donation"** or email **Q@khaa.pk**. Every cycle accelerates systems-level ML for all—thanks for fueling the from-scratch revolution!
