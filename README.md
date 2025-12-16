@@ -12,6 +12,12 @@ Through this work, I envision a future where individuals, equipped with their ow
 
 To begin, simply clone the desired repository into the `./lib` directory of your project. Each repository is designed to serve as a standalone guide and resource, offering insights and code examples that reflect real world applications of machine learning principles.
 
+#### Live Demo: Tiny CBOW in Action
+
+A small interactive demo of the CBOW implementation (trained on just **14 lines** of abdominal pain symptoms) is available here: https://demo-mocha-delta.vercel.app/
+
+It shows how even ultra-tiny data can yield meaningful symptom similarities — we're actively improving the UI and experience. Feedback welcome!
+
 #### Contribute, Explore, and Innovate
 
 Feel free to explore, experiment with, and adapt the repositories to your needs. The provided guides/articles in the repository [Machine Learning](https://github.com/KHAAdotPK/MachineLearning) are crafted to enhance your understanding and practical application of ML models. If you have any questions, suggestions, or are interested in contributing, please don't hesitate to reach out. Your feedback and collaboration are invaluable as we strive to push the boundaries of what can be achieved with ground up machine learning solutions.
