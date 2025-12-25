@@ -12,11 +12,11 @@ Through this work, I envision a future where individuals, equipped with their ow
 
 To begin, simply clone the desired repository into the `./lib` directory of your project. Each repository is designed to serve as a standalone guide and resource, offering insights and code examples that reflect real world applications of machine learning principles.
 
-#### Live Demo: Tiny CBOW in Action
+#### Live Demo: Tiny Word2Vec (tiny CBOW amd tiny Skip-gram) in Action
 
-A small interactive demo of the CBOW implementation (trained on just **14 lines** of abdominal pain symptoms) is available here: https://demo-mocha-delta.vercel.app/
+A small interactive demo of the Word2Vec implementations (trained on just **few lines** of medical symptoms text) is available here: https://demo-mocha-delta.vercel.app/
 
-It shows how even ultra-tiny data can yield meaningful symptom similarities — we're actively improving the UI and experience. Feedback welcome!
+This demonstration shows how even ultra tiny data can yield meaningful symptom similarities. Actively improving the UI and experience (specially for Skip-gram). Feedback welcome!
 
 #### Contribute, Explore, and Innovate
 
