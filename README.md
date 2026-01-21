@@ -16,7 +16,7 @@ To begin, simply clone the desired repository into the `./lib` directory of your
 
 A small interactive demo of the Word2Vec implementations (trained on just **few lines** of medical symptoms text) is available here: https://demo-mocha-delta.vercel.app/
 
-This demonstration shows how even ultra tiny data can yield meaningful symptom similarities. Actively improving the UI and experience (specially for Skip-gram). Feedback welcome!
+This demonstration shows how even ultra tiny data can yield meaningful symptom collocations. Actively improving the UI and experience (specially for Skip-gram). Feedback welcome!
 
 #### Contribute, Explore, and Innovate
 
