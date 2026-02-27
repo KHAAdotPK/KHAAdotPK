@@ -14,7 +14,7 @@ To begin, simply clone the desired repository into the `./lib` directory of your
 
 #### Live Demo: Tiny Word2Vec (tiny CBOW amd tiny Skip-gram) in Action
 
-A small interactive demo of the Word2Vec implementations (trained on just **few lines** of medical symptoms text) is available here: https://demo-mocha-delta.vercel.app/
+A small interactive demo of the Word2Vec implementations (trained on just **few lines** of medical symptoms text) is available here: https://demo-mocha-delta.vercel.app/ and here https://demo-mocha-delta.vercel.app/WIP/
 
 This demonstration shows how even ultra tiny data can yield meaningful symptom collocations. Actively improving the UI and experience (specially for Skip-gram). Feedback welcome!
 
