@@ -1,48 +1,27 @@
-### KHAAdotPK (`khaa.pk`)
+### ⚡ Building AI Foundations From Bare Metal
 
-Welcome to **KHAAdotPK** (`khaa.pk`)! This collection of repositories is meticulously curated to provide a solid foundation for implementing various Machine Learning (ML) models using `C/C++`, `Rust` and `Zig`. The goal is to offer resources that not only enhance your understanding of the core mechanics of these models but also empower you to build robust and innovative machine learning solutions from scratch.
+Welcome to **KHAAdotPK**. I am a Systems & Machine Learning Engineer focused on dismantling the "black box" of AI by building state-of-the-art architectures **completely from scratch in C++, Rust, and Zig**—with **zero external framework dependencies**. 
 
-#### Why KHAAdotPK?
+Most of modern AI relies on heavy, abstraction-layered Python frameworks that hide the hardware reality. Operating under severe hardware constraints on a consumer CPU, I treat optimization not as an afterthought, but as a core architectural requirement. 
 
-This initiative stems from the realization that we are at a pivotal moment in the evolution of AI comparable to the early stages of other transformative global phenomena. AI today is more than a technological breakthrough; it represents a societal revolution. By demystifying ML and AI implementations, the repositories at KHAAdotPK aim to dismantle the "black box" perception of these technologies, making their mechanics accessible to everyone.
+### 🚀 Core Engineering Philosophy
 
-Through this work, I envision a future where individuals, equipped with their own AI agents, can ethically, responsibly, and transparently harness the full potential of this technology.
+* **Zero External Libraries:** Every tensor operation, custom string manipulator, matrix multiplication, and CLI parser is coded from bare metal to maintain full memory control and maximize cache locality.
+* **Hardware-Constrained Optimization:** Designing tokenizers and Transformer blocks (BERT/GPT-1 style architectures) optimized to run deep learning routines smoothly on consumer-grade silicon instead of expensive cloud GPU clusters.
+* **Sovereign, Localized AI:** Engineering indigenous tools like **Naqsh (نقش)** to solve the complex, high-overhead challenges of UTF-8 encoded Urdu text preprocessing locally and cost-effectively.
 
-#### Getting Started
+### 🛠️ Featured Indigenous Stack
 
-To begin, simply clone the desired repository into the `./lib` directory of your project. Each repository is designed to serve as a standalone guide and resource, offering insights and code examples that reflect real world applications of machine learning principles.
+* **[Naqsh (نقش)]** — A high-performance, native C++ library specifically engineered for reading, cleaning, and tokenizing Urdu text encoded in UTF-8.
+* **[Parser]** — A lightweight, zero-dependency C++ library for streaming heavy CSV/delimited corpora into custom in-memory vocabulary indices.
+* **[NLP Transformer (Active)]** — Building custom from-scratch C++ implementations of Masked Language Models (BERT) and Causal Language Models (GPT-1) focusing on clean mathematical mappings and explicit backpropagation routines.
 
-#### Live Demo: Tiny Word2Vec (tiny CBOW amd tiny Skip-gram) in Action
+### 📬 Let's Connect
 
-A small interactive demo of the Word2Vec implementations (trained on just **few lines** of medical symptoms text) is available here: https://demo-mocha-delta.vercel.app/ and here https://demo-mocha-delta.vercel.app/WIP/
+I am actively seeking **compute sponsorships, research grants, or collaborative engineering opportunities** with elite global AI labs and forward-thinking local technology organizations. If you want to scale lightweight, hyper-optimized architectures that challenge the status quo of infrastructure costs, let's talk. 
 
-This demonstration shows how even ultra tiny data can yield meaningful symptom collocations. Actively improving the UI and experience (specially for Skip-gram). Feedback welcome!
+* **GitHub Issues:** Open an issue titled "Compute Donation" or "Collaboration"
+* **Direct Email:** [Q@khaa.pk](mailto:Q@khaa.pk)
+* **Live Interactive Demo:** Explore early semantic vector mappings at [Tiny Word2Vec Demo](https://demo-mocha-delta.vercel.app/)
 
-#### Contribute, Explore, and Innovate
-
-Feel free to explore, experiment with, and adapt the repositories to your needs. The provided guides/articles in the repository [Machine Learning](https://github.com/KHAAdotPK/MachineLearning) are crafted to enhance your understanding and practical application of ML models. If you have any questions, suggestions, or are interested in contributing, please don't hesitate to reach out. Your feedback and collaboration are invaluable as we strive to push the boundaries of what can be achieved with ground up machine learning solutions.
-
-Happy coding!
-
-<small>Author, [Sohail](https://github.com/sohail).</small>
-
-## Request for Compute Resources
-
-The JEPA (Rust), NLP Transformer (C/C++), and Skip-Gram/CBOW projects are **100% from-scratch** implementations—no external frameworks, just custom PNG decoders, tensor ops, and even CLI arg parsers in Rust/C++/Zig (all in this repo!).
-
-Training modest-scale models (e.g., ViT-S/16 on ImageNet-1K image subsets or a 12-layer transformer on 1M sentences) quickly outgrows a single consumer CPU.
-
-### What I Need
-| Item | Minimum Spec | Preferred |
-|------|--------------|-----------|
-| **GPU** | 1 × RTX 3060 / A4000 (≥8 GB VRAM) | 2 × RTX 4090 / A6000 |
-| **Desktop** | 16 GB RAM, 6-core CPU | 64 GB RAM, 12-core CPU + NVMe SSD |
-| **Laptop** | 16 GB RAM, integrated GPU | 32 GB RAM, RTX 4070 |
-
-### What It Will Enable
-* Full pre-training of **I-JEPA** on ImageNet-1K subsets (public dataset of 1M+ images—no libs needed).
-* End-to-end training of the **C++ Transformer** for language modeling on custom corpora.
-* Rapid iteration on **Skip-Gram/CBOW** with billion-token datasets.
-* Open benchmarks, pretrained weights, and reproducible results for the community.
-
-If you/your org can donate, loan, or sponsor, open an **Issue** titled **"Compute Donation"** or email **Q@khaa.pk**. Every cycle accelerates systems-level ML for all—thanks for fueling the from-scratch revolution!
+***Happy coding! — Sohail***
